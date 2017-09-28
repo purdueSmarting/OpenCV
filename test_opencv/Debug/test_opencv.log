@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\happy_jh\desktop\test_opencv\test_opencv\main.cpp(26): warning C4129: 'h': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+opencv_world330d.lib(opencv_world330d.dll) : fatal error LNK1112: 'x64' 모듈 컴퓨터 종류가 'X86' 대상 컴퓨터 종류와 충돌합니다.
